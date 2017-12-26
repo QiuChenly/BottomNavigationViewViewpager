@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+android:icon="@drawable/ic_audiotrack_black_24dp"
+        android:id="@+id/n_View1"
+        android:title="页面1" />
+    <item
+        android:icon="@drawable/ic_av_timer_black_24dp"
+        android:id="@+id/n_View2"
+        android:title="页面2" />
+    <item
+        android:icon="@drawable/ic_bug_report_black_24dp"
+        android:id="@+id/n_View3"
+        android:title="页面3" />
+    <item
+        android:icon="@drawable/ic_event_black_24dp"
+        android:id="@+id/n_View4"
+        android:title="页面4" />
+</menu>
